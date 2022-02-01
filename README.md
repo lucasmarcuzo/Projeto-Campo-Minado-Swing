@@ -1,6 +1,6 @@
 <h1>🛠️ Projeto - Campo Minado 💻</h1>
 
-<H2> 👨🏻‍💻 Criando um jogo Campo Minado em Java + JUnit 5. </h2>
+<H2> 👨🏻‍💻 Criando um Jogo (Campo Minado) em Java + JUnit 5. </h2>
 
 ## 👨🏻‍🔬 Instrutor: 
 
