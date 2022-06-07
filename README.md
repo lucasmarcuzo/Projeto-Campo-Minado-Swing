@@ -16,5 +16,5 @@
 
 ![MIT License](https://img.shields.io/github/license/lucasmarcuzo/Projeto-DIO-APP-Portfolio-GitHub)
 
-<div align="right"> <h3> - Thanks for visiting! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> </h3> </div> 
+<div align="right"> <h3> - Thanks for visiting! ✌🏻 </h3> </div> 
 <p align="right"> <img src="https://visitor-badge.laobi.icu/badge?page_id=lucasmarcuzo/Projeto-Campo-Minado-Java"> </h3> </p>
