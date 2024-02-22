@@ -2,6 +2,12 @@
 
 <H2> 👨🏻‍💻 Criando um Jogo (Campo Minado) em Java com Swing </h2>
 
+<p align="center">
+<a href="https://github.com/lucasmarcuzo/Projeto-Campo-Minado-Swing/">
+<img  width="920"  height="480"  src="presentation/campo-minado.gif">
+</p>
+
+
 ## 👨🏻‍🔬 Instrutor: 
 
 | Leonardo M. Leitão |
